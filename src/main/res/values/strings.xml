@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeChat</string>
+    <string name="alert_dialog">WeChat needs that permission to function properly! Please accept that permission.</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+    <string name="exit">Are you sure you want to exit?\nAll your data will be lost!</string>
+    <string name="no">NO</string>
+    <string name="yes">YES</string>
+</resources>
